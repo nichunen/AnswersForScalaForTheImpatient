@@ -1,7 +1,7 @@
 /**
  * Created by Ni Chunen on 15/12/2.
  */
-object  HelloWorld {
+object  ChTwo {
   //Ex1
   def getSigNum(n:Int) = {
     var signum = 0
