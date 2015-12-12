@@ -104,7 +104,7 @@ object ChFive {
   }
 
   //Ex8
-  class Car(val manufacturer:String, val model:String, val year:Int = -1, var number:String){
+  class Car private (val manufacturer:String, val model:String, val year:Int = -1, var number:String){
 
   }
 
