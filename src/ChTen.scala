@@ -73,7 +73,7 @@ object ChTen {
 
     def iterator: Iterator[Byte] = null
   }
-  
+
 
   def main(args: Array[String]): Unit = {
 
